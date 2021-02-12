@@ -15,7 +15,7 @@ The single player mode, once chosen, fetch a random word from `random_words` lib
 
 Lives left | 7 | 6 | 5 | 4 | 3 | 2 | 1 | Hung
 :---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
- Drawing   | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> 
+ Drawing   | <img src="/img/11.png" style="height: 70px; width:70px;"/> | <img src="/img/22.png" style="height: 70px; width:70px;"/> | <img src="/img/33.png" style="height: 70px; width:70px;"/> | <img src="/img/44.png" style="height: 70px; width:70px;"/> | <img src="/img/55.png" style="height: 70px; width:70px;"/> | <img src="/img/66.png" style="height: 70px; width:70px;"/> | <img src="/img/77.png" style="height: 70px; width:70px;"/> 
 
 The multi-player mode allows a second player to enter a word, the first player have to guess it :  
 
