@@ -6,7 +6,7 @@ Dev. by : Rad-Wane
 ## Game play:
 
 The hanging man ("pendu" in french), is a word guessing game where a word is to be guessed based only on the number of its characters. A player have 7 tries to find the word, otherwise he's hung. 
-![](C:/Users/radwa/Desktop/Code files/Pendu-game-with-Tkinter/img/play.png)
+![](/img/play.png)
 
 This game feature's two playing modes : single player and multi-player:   
 ![](C:/Users/radwa/Desktop/Code files/Pendu-game-with-Tkinter/img/play.png)
