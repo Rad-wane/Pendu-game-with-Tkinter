@@ -24,7 +24,7 @@ Upon winning or loosing, a `message box` is displayed, showing the correct word,
 [](/img/final.png)
 
 In the file `pendu_console.py` there is a variant of the game that uses Python's console :
-<img src="/img/console.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="/img/console.png" style="height: 70px; width:70px;"/>
 [](/img/console.png)
 
 ## The code:
