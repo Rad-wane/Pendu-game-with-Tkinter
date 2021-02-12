@@ -28,6 +28,7 @@ Upon winning or loosing, a `message box` is displayed, showing the correct word,
 <img src="/img/final.png" height= "300" width="200"/>
 
 In the file `pendu_console.py` there is a variant of the game that uses Python's console :
+
 <img src="/img/console.png" height= "300" width="200"/>
 
 
