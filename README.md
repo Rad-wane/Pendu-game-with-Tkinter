@@ -9,13 +9,13 @@ The hanging man ("pendu" in french), is a word guessing game where a word is to 
 ![](/img/play.png)
 
 This game feature's two playing modes : single player and multi-player:   
-![](/img/play.png)
+![](/img/modes.png)
 
 The single player mode, once chosen, fetch a random word from `random_words` library. The word is then to be guessed within 7 tries. Each time an entered letter is not in the word, a drawing is made (see table below). 
 
 Lives left | 7 | 6 | 5 | 4 | 3 | 2 | 1 | Hung
 :---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
- Drawing   | <img src="/img/11.png" style="height: 70px; width:70px;"/> | <img src="/img/22.png" style="height: 70px; width:70px;"/> | <img src="/img/33.png" style="height: 70px; width:70px;"/> | <img src="/img/44.png" style="height: 70px; width:70px;"/> | <img src="/img/55.png" style="height: 70px; width:70px;"/> | <img src="/img/66.png" style="height: 70px; width:70px;"/> | <img src="/img/77.png" style="height: 70px; width:70px;"/> 
+ Drawing   | <img src="/img/11.png" height= "100" width="90"/> | <img src="/img/22.png" height= "100" width="90"/> | <img src="/img/33.png" height= "100" width="90"/> | <img src="/img/44.png" height= "100" width="90"/> | <img src="/img/55.png" height= "100" width="90"/> | <img src="/img/66.png" height= "100" width="90"/> | <img src="/img/77.png" height= "100" width="90"/> 
 
 The multi-player mode allows a second player to enter a word, the first player have to guess it :  
 
