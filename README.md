@@ -29,9 +29,9 @@ Upon winning or loosing, a `message box` is displayed, showing the correct word,
 
 In the file `pendu_console.py` there is a variant of the game that uses Python's console :
 
-<img src="/img/console.png" height= "300" width="200" align="center"/>
-
-
+<p align="center">
+<img src="/img/console.png" height= "300" width="200"/>
+</p>
 ## The code:
 
 This game uses `tkinter`, the code has comments for clarity. Images used for the game are in `img` file. The screen dimensions chosen are : `300x400`. Besides `tkinter`, I imported `random_words` for generating random words in single player mode.
