@@ -15,13 +15,15 @@ The single player mode, once chosen, fetch a random word from `random_words` lib
 
 Lives left | 7 | 6 | 5 | 4 | 3 | 2 | 1 | Hung
 :---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
- Drawing   | ![](/img/11.png) | ![](/img/22.png) | ![](/img/33.png) | ![](/img/44.png) | ![](/img/55.png) | ![](/img/66.png) | ![](/img/77.png) 
+ Drawing   | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> | <img src="/img/mp1.png" style="height: 70px; width:70px;"/> 
 
 The multi-player mode allows a second player to enter a word, the first player have to guess it :  
-[](/img/mp1.png)
+
+<img src="/img/mp1.png" style="height: 70px; width:70px;"/>
 
 Upon winning or loosing, a `message box` is displayed, showing the correct word, and a restarting with another word feature : 
-[](/img/final.png)
+
+<img src="/img/final.png" style="height: 70px; width:70px;"/>
 
 In the file `pendu_console.py` there is a variant of the game that uses Python's console :
 <img src="/img/console.png" style="height: 70px; width:70px;"/>
