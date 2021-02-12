@@ -15,7 +15,7 @@ The single player mode, once chosen, fetch a random word from `random_words` lib
 
 Lives left | 7 | 6 | 5 | 4 | 3 | 2 | 1 | Hung
 :---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
- Drawing   | <img src="/img/11.png" height= "100" width="90"/> | <img src="/img/22.png" height= "100" width="90"/> | <img src="/img/33.png" height= "100" width="90"/> | <img src="/img/44.png" height= "100" width="90"/> | <img src="/img/55.png" height= "100" width="90"/> | <img src="/img/66.png" height= "100" width="90"/> | <img src="/img/77.png" height= "100" width="90"/> 
+ Drawing   | <img src="/img/1.png" height= "100" width="90"/> | <img src="/img/2.png" height= "100" width="90"/> | <img src="/img/3.png" height= "100" width="90"/> | <img src="/img/4.png" height= "100" width="90"/> | <img src="/img/5.png" height= "100" width="90"/> | <img src="/img/6.png" height= "100" width="90"/> | <img src="/img/7.png" height= "100" width="90"/> 
 
 The multi-player mode allows a second player to enter a word, the first player have to guess it :  
 
