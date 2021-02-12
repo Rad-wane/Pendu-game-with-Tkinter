@@ -7,11 +7,15 @@ Dev. by : Rad-Wane
 
 The hanging man ("pendu" in french), is a word guessing game where a word is to be guessed based only on the number of its characters. A player have 7 tries to find the word, otherwise he's hung. 
 
+<p align="center">
 <img src="/img/play.png" height= "300" width="200"/>
+</p>
 
 This game feature's two playing modes : single player and multi-player:   
 
+<p align="center">
 <img src="/img/modes.png" height= "300" width="200"/>
+</p>
 
 The single player mode, once chosen, fetch a random word from `random_words` library. The word is then to be guessed within 7 tries. Each time an entered letter is not in the word, a drawing is made (see table below). 
 
@@ -21,17 +25,22 @@ Lives left | 6 | 5 | 4 | 3 | 2 | 1 | Hung
 
 The multi-player mode allows a second player to enter a word, the first player have to guess it :  
 
+<p align="center">
 <img src="/img/mp1.png" height= "300" width="200"/>
+</p>
 
 Upon winning or loosing, a `message box` is displayed, showing the correct word, and a restarting with another word feature : 
 
+<p align="center">
 <img src="/img/final.png" height= "300" width="200"/>
+</p>
 
 In the file `pendu_console.py` there is a variant of the game that uses Python's console :
 
 <p align="center">
 <img src="/img/console.png" height= "300" width="200"/>
 </p>
+
 ## The code:
 
 This game uses `tkinter`, the code has comments for clarity. Images used for the game are in `img` file. The screen dimensions chosen are : `300x400`. Besides `tkinter`, I imported `random_words` for generating random words in single player mode.
