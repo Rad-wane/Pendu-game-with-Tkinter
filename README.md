@@ -21,14 +21,14 @@ Lives left | 7 | 6 | 5 | 4 | 3 | 2 | 1 | Hung
 
 The multi-player mode allows a second player to enter a word, the first player have to guess it :  
 
-<img src="/img/mp1.png" height= "350" width="350"/>
+<img src="/img/mp1.png" height= "300" width="200"/>
 
 Upon winning or loosing, a `message box` is displayed, showing the correct word, and a restarting with another word feature : 
 
-<img src="/img/final.png" height= "350" width="350"/>
+<img src="/img/final.png" height= "300" width="200"/>
 
 In the file `pendu_console.py` there is a variant of the game that uses Python's console :
-<img src="/img/console.png" height= "300" width="300"/>
+<img src="/img/console.png" height= "300" width="200"/>
 
 
 ## The code:
