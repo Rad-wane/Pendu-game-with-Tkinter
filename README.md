@@ -6,10 +6,12 @@ Dev. by : Rad-Wane
 ## Game play:
 
 The hanging man ("pendu" in french), is a word guessing game where a word is to be guessed based only on the number of its characters. A player have 7 tries to find the word, otherwise he's hung. 
-![](/img/play.png)
+
+<img src="/img/play.png" height= "300" width="200"/>
 
 This game feature's two playing modes : single player and multi-player:   
-![](/img/modes.png)
+
+<img src="/img/modes.png" height= "300" width="200"/>
 
 The single player mode, once chosen, fetch a random word from `random_words` library. The word is then to be guessed within 7 tries. Each time an entered letter is not in the word, a drawing is made (see table below). 
 
