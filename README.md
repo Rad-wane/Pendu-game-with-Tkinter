@@ -15,7 +15,7 @@ This game feature's two playing modes : single player and multi-player:
 
 The single player mode, once chosen, fetch a random word from `random_words` library. The word is then to be guessed within 7 tries. Each time an entered letter is not in the word, a drawing is made (see table below). 
 
-Lives left | 7 | 6 | 5 | 4 | 3 | 2 | 1 | Hung
+Lives left | 6 | 5 | 4 | 3 | 2 | 1 | Hung
 :---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
  Drawing   | <img src="/img/1.png" height= "100" width="90"/> | <img src="/img/2.png" height= "100" width="90"/> | <img src="/img/3.png" height= "100" width="90"/> | <img src="/img/4.png" height= "100" width="90"/> | <img src="/img/5.png" height= "100" width="90"/> | <img src="/img/6.png" height= "100" width="90"/> | <img src="/img/7.png" height= "100" width="90"/> 
 
