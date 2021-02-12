@@ -19,7 +19,7 @@ Lives left | 7 | 6 | 5 | 4 | 3 | 2 | 1 | Hung
 
 The multi-player mode allows a second player to enter a word, the first player have to guess it :  
 
-<img src="/img/mp1.png" style="height: 70px; width:70px;"/>
+<img src="/img/mp1.png" height= "350" width="350"/>
 
 Upon winning or loosing, a `message box` is displayed, showing the correct word, and a restarting with another word feature : 
 
